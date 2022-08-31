@@ -1,0 +1,46 @@
+#one {
+  margin-left: 50px;
+}
+#two{
+  height: 80px;
+}
+#three{
+ 
+   font-family: neuzeit-grotesk,sans-serif;
+   font-weight: 700;
+   font-size: 20px;
+   color: #84332e;
+   line-height: 22px;
+}
+#three::after{
+  content: n
+}
+#four{
+ padding-left: 500px;
+  background-color: green;
+  display: flex;
+}
+#five{
+  margin-left: 20px;
+}
+#mutu{
+  background-color: green;
+  height: 120px;
+}
+#a1{
+  color: white;
+  font-size: 30px;
+  margin-left: 200px;
+  margin-top: 15px;
+}
+#a2{
+  color: crimson;
+  margin-left: 070px;
+  font-size: 25px;
+  margin-top: 35px;
+}
+#a3{
+  color: #84332e;
+  margin-top: 35px;
+  font-size: 25px;
+}
