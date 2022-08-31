@@ -44,3 +44,47 @@
   margin-top: 35px;
   font-size: 25px;
 }
+#a4{
+  color: #84332e;
+  margin-top: 35px;
+  font-size: 25px;
+}
+#a5{
+  display: flex;
+}
+#a6{
+  height: 400px;
+  margin-left: 100px;
+}
+#a7{
+  color: #84332e;
+  font-size: 30px;
+}
+#b1{
+  height: 450px;
+  width: 100%;
+}
+#b2{
+  height: 450px;
+  width: 100%;
+}
+#b3{
+  height: 450px;
+  width: 100%;
+}
+/* #yet{
+  background-image: url(../img/bge.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+}
+#b4{
+  height: 400px;
+  width: 150%;
+}
+#b6{
+  margin-left: 400px;
+   margin-top: 200px;
+   height: 400px;
+   width: 90%;
+} */
