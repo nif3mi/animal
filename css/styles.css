@@ -353,3 +353,37 @@
 #beret{
   background-color: white;
 }
+#rewe{
+  background-image: url();
+height: 400px;
+width: 100%;
+  
+  background-repeat: no-repeat;
+ 
+}
+#disg{
+  width: 50%;
+  height: 470px;
+}
+#rep{
+  display: flex;
+}
+#wes{
+  width: 50%;
+  height: 470px;
+  background-color: whitesmoke;
+}
+#yet{
+  font-size: 35px;
+  margin-left: 170px;
+  margin-top: 170px;
+  color: #DC5918;
+}
+#rew{
+  margin-left: 170px;
+}
+#req{
+  margin-left: 170px;
+  background-color: blue;
+  border-color: blue;
+}
