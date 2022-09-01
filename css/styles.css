@@ -182,19 +182,29 @@
 
 #egg {
   color: #84332e;
-  margin-left: -200px;
+  
   font-weight: bolder;
   font-size: 25px;
 
 }
-
+#nifemi{
+  font-size: 25px;
+  color: #84332e;
+}
 #eggret {
   background-color: #84332e;
 }
-
+#tyre{
+  font-size: 25px;
+  color: #84332e;
+}
+#bere{
+  height: 100px;
+  width: 50%;
+  margin-left: -500px;
+}
 #trew {
   color: #84332e;
-  margin-left: -310px;
   font-weight: bolder;
   font-size: 25px;
 }
@@ -206,11 +216,11 @@
 #DREW {
   background-color:  lightblue;
   height: 36px;
-  width: 45%;
+  width: 85%;
   font-size: 20px;
   padding-right: 15px;
   margin-top: 4px;
-margin-left: -92px;
+
 border-color: lightblue;
 
 }
@@ -309,7 +319,7 @@ border-color: lightblue;
 #t7 {
   margin-left: 100px;
 }
-
-#c3 {
-  display: flex;
+#c3{
+  
 }
+
