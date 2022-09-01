@@ -394,17 +394,25 @@ width: 100%;
   margin-left: 450px;
   font-size: 40px;
   color: #DC5918;
-  font-family: cursive;
+  font-family: neuzeit-grotesk,sans-serif;
   margin-top: 100px;
 }
+#tere{
+  height: 100px;
+  width: 25%;
+  margin-left: 40px;
+}
+#poyt{
+  height: 100px;
+  width: 15%;
+  margin-left: 50px;
+}
 #twayne{
- 
   height: 250px;
  width: 20%;
 }
 #rhythm{
-  height: 190px;
-  width: 15%;
-  margin-left: 150px;
-  margin-top: 10px;
+  height: 100px;
+  width: 25%;
+  margin-left: 50px;
 }
