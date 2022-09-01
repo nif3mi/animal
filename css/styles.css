@@ -1,121 +1,315 @@
 #one {
   margin-left: 50px;
 }
-#two{
+
+#two {
   height: 80px;
 }
-#three{
- 
-   font-family: neuzeit-grotesk,sans-serif;
-   font-weight: 700;
-   font-size: 20px;
-   color: #84332e;
-   line-height: 22px;
+
+#three {
+
+  font-family: neuzeit-grotesk, sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+  color: #84332e;
+  line-height: 22px;
 }
-#three::after{
-  content: n
+
+#three::after {
+  content: none;
 }
-#four{
- padding-left: 500px;
+
+#four {
+  padding-left: 700px;
   background-color: green;
   display: flex;
+  margin-bottom: 0px;
+  height: 30px;
+  color: white;
 }
-#five{
+
+#five {
   margin-left: 20px;
+  margin-top: 5px;
+
 }
-#mutu{
+
+#six {
+  margin-left: 30px;
+  margin-top: 5px;
+}
+
+#seven {
+  margin-left: 30px;
+}
+
+#eight {
+  background-color: limegreen;
+}
+
+#nine {
+  margin-left: 20px;
+  font-size: larger;
+}
+
+#ten {
+  margin-left: 20px;
+  font-size: larger;
+}
+
+#eleven {
+  margin-left: 20px;
+  font-size: larger;
+}
+
+#twelve {
+  margin-left: 20px;
+  font-size: larger;
+}
+
+#thirteen {
+  margin-top: 5px;
+}
+
+#mutu {
   background-color: green;
   height: 120px;
 }
-#a1{
+
+#a1 {
   color: white;
   font-size: 30px;
   margin-left: 200px;
   margin-top: 15px;
 }
-#a2{
+
+#a2 {
   color: crimson;
   margin-left: 070px;
   font-size: 25px;
   margin-top: 35px;
 }
-#a3{
+
+#a3 {
   color: #84332e;
   margin-top: 35px;
   font-size: 25px;
 }
-#a4{
+
+#a4 {
   color: #84332e;
   margin-top: 35px;
   font-size: 25px;
 }
-#a5{
+
+#a5 {
   display: flex;
 }
-#a6{
+
+#a6 {
   height: 400px;
   margin-left: 100px;
 }
-#a7{
+
+#a7 {
   color: #84332e;
   font-size: 30px;
 }
-#b1{
+
+#b1 {
   height: 450px;
   width: 100%;
 }
-#b2{
+
+#b2 {
   height: 450px;
   width: 100%;
 }
-#b3{
+
+#b3 {
   height: 450px;
   width: 100%;
 }
-#b8{
+
+#b8 {
   height: 100px;
   width: 100%;
   background-color: darkorange;
+  margin-top: 100px;
 }
-#b9{
+
+#b9 {
   margin-left: 500px;
 }
-#c1{
-  font-family: neuzeit-grotesk,sans-serif;
+
+#c1 {
+  font-family: neuzeit-grotesk, sans-serif;
   margin-left: 500px;
   margin-top: 100px;
   color: darkorange;
 }
-#c2{
+
+#c2 {
   font-weight: bolder;
   font-size: 40px;
 }
-#c5{
+
+#c5 {
   height: 100px;
   width: 60%;
 
 }
-#image{
+
+#image {
   height: 200px;
 }
-#were{
+
+#were {
   height: 200px;
   width: 60%;
   margin-left: 100px;
 }
-/* #yet{
-  background-image: url(../img/bge.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 600px;
+
+#d1 {
+  color: #84332e;
+  margin-left: 10px;
+  font-size: 25px;
 }
-#b4{
-  height: 400px;
-  width: 150%;
+
+#d2 {
+  background-color: #84332e;
 }
-#b6{
-  margin-left: 400px;
-   margin-top: 200px;
-   height: 400px;
-   width: 90%;
-} */
+
+#egg {
+  color: #84332e;
+  margin-left: -200px;
+  font-weight: bolder;
+  font-size: 25px;
+
+}
+
+#eggret {
+  background-color: #84332e;
+}
+
+#trew {
+  color: #84332e;
+  margin-left: -310px;
+  font-weight: bolder;
+  font-size: 25px;
+}
+
+#tere {
+  background-color: #84332e;
+}
+
+#DREW {
+  background-color:  lightblue;
+  height: 36px;
+  width: 45%;
+  font-size: 20px;
+  padding-right: 15px;
+  margin-top: 4px;
+margin-left: -92px;
+border-color: lightblue;
+
+}
+
+#a8 {
+  margin-left: 500px;
+  margin-top: -250px;
+}
+
+#a9 {
+  margin-left: 150px;
+  margin-top: 50px;
+}
+
+#a10 {
+  margin-left: 200px;
+  margin-top: 50px;
+}
+
+#dry {
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+#her {
+  color: #84332e;
+  font-size: 30px;
+  margin-left: 10px;
+}
+
+#she {
+  color: black;
+  margin-left: 10px;
+  font-weight: bolder;
+}
+
+#him {
+  margin-top: -20px;
+  margin-left: 10px;
+}
+
+#he {
+  color: #84332e;
+  margin-left: 380px;
+  margin-top: -250px;
+  font-size: 30px;
+}
+
+#they {
+  margin-left: 300px;
+  font-weight: bolder;
+  color: black;
+}
+
+#breer {
+  margin-left: 300px;
+  margin-top: 70px;
+}
+
+#drake {
+  margin-top: -250px;
+  margin-left: 580px;
+  color: #84332e;
+  font-size: 30px;
+}
+
+#riri {
+  margin-left: 580px;
+
+  font-weight: bolder;
+  color: black;
+
+}
+
+#hhh {
+  margin-left: 580px;
+  margin-top: 80px;
+}
+
+#red {
+  display: flex;
+  margin-left: 100px;
+}
+
+#t5 {
+  margin-left: 100px;
+  height: 130px;
+  width: 30%;
+}
+
+#t6 {
+  margin-left: 100px;
+  width: 10%;
+}
+
+#t7 {
+  margin-left: 100px;
+}
+
+#c3 {
+  display: flex;
+}

@@ -1,17 +1,17 @@
-# _{ANIMAL SHELTER}_
+# _ANIMAL SHELTER_
 
-#### _{}_
+#### _A WEBSITE ABOUT AUSTIN PETS ALIVE_
 
-#### By _**{HASSAN MUTMAHINAT}**_
+#### By _**HASSAN MUTMAHINAT**_
 
 ## Technologies Used
 
 * _HTML_
 * _CSS_
 * _BOOTSTRAP_
-* _here_
+* _here_ 
 
-## Description
+## Austin Pets Alive is an animal 
 
 _{This is a }_
 
