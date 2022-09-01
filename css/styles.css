@@ -387,3 +387,24 @@ width: 100%;
   background-color: blue;
   border-color: blue;
 }
+#soldier{
+  display: flex;
+}
+#ree{
+  margin-left: 450px;
+  font-size: 40px;
+  color: #DC5918;
+  font-family: cursive;
+  margin-top: 100px;
+}
+#twayne{
+ 
+  height: 250px;
+ width: 20%;
+}
+#rhythm{
+  height: 190px;
+  width: 15%;
+  margin-left: 150px;
+  margin-top: 10px;
+}
