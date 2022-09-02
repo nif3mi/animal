@@ -416,6 +416,22 @@ height: 500px;
   font-family: neuzeit-grotesk,sans-serif;
   margin-top: 100px;
 }
+#hate{
+  margin-left: 100px;
+  width: 20%;
+  height: 100px;
+}
+#na{
+  margin-left: 120px;
+  height: 100px;
+  width: 20%;
+}
+#adult{}
+#ase{
+  height: 150px;
+  width: 30%;
+  margin: 30px;
+}
 #tere{
   height: 100px;
   width: 25%;
@@ -448,7 +464,8 @@ padding-left: 100px;
 }
 footer{
   background-color: gray;
-  height:600px;
+  height:700px;
+  margin-top: 150px;
 }
 #ye{
 font-size: 10px;
@@ -497,7 +514,11 @@ font-size: 15px;
   margin-left: 100px;
 }
 #un{
-  margin-left: 600px;
+  margin-left: 1100px;
+  color: white;
+  font-weight: bolder;
+  font-size: 25px;
+ 
 }
 #please{
   margin-left: 500px;
