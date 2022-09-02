@@ -435,8 +435,10 @@ height: 500px;
   width: 25%;
   margin-left: 50px;
 }
-
-
+#deffo{
+  padding-left: 100px;
+  padding-top: 120px;
+}
 
 #alt{
 margin-bottom: -200px;
@@ -447,9 +449,10 @@ footer{
   height: 400px;
 }
 #ye{
-margin-left: 100px;
-margin-top: 110px;
+font-size: 15px;
+padding-bottom: 20px;
 }
-#tame{
-  font-size: 15px;
+#derg{
+  
 }
+
