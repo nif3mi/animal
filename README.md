@@ -18,7 +18,7 @@ _{Austin Pets Alive! is a 501(c)3 nonprofit organization. We work partly from fe
 
 ## Setup/Installation Requirements
 
-* _GIT CLONE TO YOUR DESKTOP
+* _GIT CLONE TO YOUR DESKTOP_
 * _NAVIGATE TO TOP DIRECTORY_
 * _OPEN THR INDEX.HTML FOLDER_
 
@@ -31,7 +31,7 @@ _{Austin Pets Alive! is a 501(c)3 nonprofit organization. We work partly from fe
 
 ## License
 
-_{MIT-HASSANMUTMAHINAT@COPYRIGHTS.COM}_
+_{MIT-© 2022 Austin Pets Alive!. All Rights Reserved.}_
 
 ## Contact Information
 
