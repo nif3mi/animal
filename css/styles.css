@@ -374,11 +374,29 @@ padding-bottom: 100px;
   background-color: white;
 }
 #rewe{
-  background-image: url(../img/83357f2918cef30fd7f1a4f8561df47a.jpg);
+  background-image: url(../img/red-banner-dog.jpg);
 height: 500px;
-  
+  background-size: cover;
   background-repeat: no-repeat;
- 
+  margin-top: 50px;
+}
+#i{
+  font-size: 30px;
+  font-weight: bolder;
+  color: #84332e;
+  margin-left: 100px;
+}
+#go{
+  font-size: 20px;
+  font-weight: bolder;
+  color: white;
+  margin-left: 100px;
+}
+#crazy{
+  font-size: 20px;
+  font-weight: bolder;
+  color: white;
+  margin-left: 100px;
 }
 #disg{
   width: 50%;
