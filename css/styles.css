@@ -438,6 +438,8 @@ height: 500px;
 #deffo{
   padding-left: 100px;
   padding-top: 120px;
+  color: white;
+  font-weight: bolder;
 }
 
 #alt{
@@ -446,13 +448,61 @@ padding-left: 100px;
 }
 footer{
   background-color: gray;
-  height: 400px;
+  height:600px;
 }
 #ye{
-font-size: 15px;
+font-size: 10px;
 padding-bottom: 20px;
 }
 #derg{
-  
+  margin-top: -40px;
+  font-size: 15px;
 }
-
+#out{
+  margin-top: -21px;
+  font-size: 10px;
+}
+#no{
+font-size: 15px;
+}
+#last{
+ display: flex;
+}
+#fast{
+  margin-left: 90px;
+  padding-top: 120px;
+  font-weight: bolder;
+  font-size: 15px;
+  color: white;
+}
+#rest{
+  font-size: 15px;
+  color: white;
+  font-weight: bolder;
+  margin-top: 120px;
+  margin-left: 100px;
+}
+#bad{
+  font-size: 15px;
+  color: white;
+  font-weight: bolder;
+  margin-top: 120px;
+  margin-left: 100px;
+}
+#bitch{
+  font-size: 15px;
+  color: white;
+  font-weight: bolder;
+  margin-top: 120px;
+  margin-left: 100px;
+}
+#un{
+  margin-left: 600px;
+}
+#please{
+  margin-left: 500px;
+  margin-bottom: 100px;
+  color: white;
+  font-weight: bolder;
+  font-size: 15px;
+}
