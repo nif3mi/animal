@@ -386,6 +386,7 @@ height: 500px;
 }
 #rep{
   display: flex;
+  margin-top: 50px;
 }
 #wes{
   width: 50%;
@@ -426,7 +427,14 @@ height: 500px;
   height: 100px;
   width: 20%;
 }
-#adult{}
+#adult{
+  margin-left: 200px;
+  height: 100px;
+  width: 20%;
+}
+#hood{
+  margin-left: 250px;
+}
 #ase{
   height: 150px;
   width: 30%;
