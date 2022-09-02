@@ -10,8 +10,7 @@
 * _CSS_
 * _BOOTSTRAP_
 * _FONT AWESOME ICONS_ 
-* _GIT_nn
-hhh 
+* _GIT_
 
 ## DESCRIPTION
 
